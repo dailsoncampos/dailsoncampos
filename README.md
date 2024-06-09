@@ -2,7 +2,7 @@
 
 ### About me
 
-#### I'm Dailson Campos. Bachelor's degree in Computer Science from the Federal University of Western Pará, and postgraduate studies in Data Engineering at PUC Minas Gerais. So, I’m currently learning about Data area.
+#### I'm Dailson Campos. Bachelor's degree in Computer Science from the Federal University of Western Pará, and postgraduate studies in Data Engineering at PUC Minas Gerais.
 
 ### Stacks
 
