@@ -1,4 +1,4 @@
-## Hello World! Welcome to my repo👋
+## Hello World!👋
 
 ### About me
 
