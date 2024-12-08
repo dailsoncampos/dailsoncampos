@@ -1,44 +1,46 @@
-## Hello World!👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+I'm+Dailson+Campos)](https://git.io/typing-svg)
+----
+#### A Web Developer and Data Engineering enthusiast. Willing to use technology to create a better world :earth_americas:
 
-### About me
+- :raising_hand_man: He/Him <br>
+- :mortar_board: Bachelor in Computer Science - UFOPA <br>
+- :page_with_curl: Postgraduated in Data Engineering - PUC Minas <br>
 
-#### I'm Dailson Campos. Bachelor's degree in Computer Science from the Federal University of Western Pará and postgraduate in Data Engineering from PUC of Minas Gerais.
-
-### Skills
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg"   width="40" height="40"/>	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"  width="40" height="40"/>	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"  width="40" height="40"/>	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>	<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  width="40" height="40"/>
-
-
-### Learning
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"  width="40" height="40"/> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/>
-          
-### Contact
-
-<div>
-<a href = "mailto:contato@dailsoncampos.dev.br"><img loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/dailsoncampos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-### Stats
-
-<div>
-<a href="https://github.com/dailsoncampos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailsoncampos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dailsoncampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+## Languages and Tools
 <!--
-**dailsoncampos/dailsoncampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![FShinoda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FShinoda&layout=compact&title_color=ff1324&text_color=eeeeee&bg_color=111111&border_color=222222&include_all_commits=true&border_radius=0) 
+-->
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=Ruby%20on%20Rails)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django)
+![JavaScript](https://img.shields.io/badge/JavaScript-d4bd02?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](#)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## You can contact me via
+<a href="mailto:contato@dailsoncampos.tech?subject=Contact" target="_blank" rel="noopener noreferrer"><img alt="Mail" src="https://img.shields.io/badge/email-blue?style=flat-square&logo=maildotru&logoColor=white/"></a>
+<a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
+
+## Github Stats
+<table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dailsoncampos&theme=codeSTACKr" alt="Dailson Campos' GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dailsoncampos&theme=codeSTACKr&utcOffset=-3" alt="Dailson Campos' GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dailsoncampos&theme=codeSTACKr" alt="Dailson Campos' GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dailsoncampos&theme=codeSTACKr" alt="Dailson Campos' GitHub Stats"/></td>
+    </tr>
+</table>
+<!--
+<table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FShinoda&theme=kacho_ga" alt="FShinoda's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FShinoda&theme=kacho_ga&utcOffset=10" alt="FShinoda's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FShinoda&theme=kacho_ga" alt="FShinoda's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FShinoda&theme=kacho_ga" alt="FShinoda's GitHub Stats"/></td>
+    </tr>
+</table>
 -->
