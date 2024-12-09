@@ -23,7 +23,7 @@
 
 ## You can contact me via
 <a href="mailto:contato@dailsoncampos.tech?subject=Contact" target="_blank" rel="noopener noreferrer"><img alt="Mail" src="https://img.shields.io/badge/email-blue?style=flat-square&logo=maildotru&logoColor=white/"></a>
-<a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
+<a href="https://www.linkedin.com/in/dailsoncampos/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff"/></a>
 
 ## Github Stats
 <table align="center" width="100%" height="100%" >
