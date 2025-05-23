@@ -7,9 +7,6 @@
 - :page_with_curl: Postgraduated in Data Engineering - PUC Minas <br>
 
 ## Languages and Tools
-<!--
-![FShinoda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FShinoda&layout=compact&title_color=ff1324&text_color=eeeeee&bg_color=111111&border_color=222222&include_all_commits=true&border_radius=0) 
--->
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=Ruby%20on%20Rails)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -20,6 +17,9 @@
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](#)
 
+## Certifications, Badges & Courses
+
+<a href="https://www.credly.com/badges/5c056124-2e85-4834-93f3-f83a2a765ebb/public_url" target="_blank" rel="noopener noreferrer"><img alt="AWS re/Start Graduate" src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width=100px height=100px /><a>
 
 ## You can contact me via
 <a href="mailto:contato@dailsoncampos.tech?subject=Contact" target="_blank" rel="noopener noreferrer"><img alt="Mail" src="https://img.shields.io/badge/email-blue?style=flat-square&logo=maildotru&logoColor=white/"></a>
