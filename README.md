@@ -20,6 +20,7 @@
 ## Certifications, Badges & Courses
 
 <a href="https://www.credly.com/badges/5c056124-2e85-4834-93f3-f83a2a765ebb/public_url" target="_blank" rel="noopener noreferrer"><img alt="AWS re/Start Graduate" src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width=100px height=100px /><a>
+<a href="https://www.credly.com/badges/60f96e58-f774-4093-b63e-183eadcaed26/public_url" target="_blank" rel="noopener noreferrer"><img alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=100px height=100px /><a>
 
 ## You can contact me via
 <a href="mailto:contato@dailsoncampos.tech?subject=Contact" target="_blank" rel="noopener noreferrer"><img alt="Mail" src="https://img.shields.io/badge/email-blue?style=flat-square&logo=maildotru&logoColor=white/"></a>
